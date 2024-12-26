@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hi New Branch
+          "Hi chagned to feature"
         </a>
       </header>
     </div>
