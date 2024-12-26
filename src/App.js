@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          "Hi chagned to feature"
+          hi changed to feature !!
         </a>
       </header>
     </div>
